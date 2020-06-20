@@ -5,6 +5,9 @@ __pycache__/
 .vscode/
 *.pickle
 # C extensions
+*.jpg
+*.tmp
+*.zip
 *.so
 
 # Distribution / packaging
